@@ -89,4 +89,7 @@ export class NumbersGame {
         // console.log("Numbers Pool:", this.numberPool)
     }
 
+    getSolution() {
+        // Solve the game
+    }
 }
